@@ -15,3 +15,9 @@
 - **color:** orange
 - **video game:** civilization
 - **animal:** cat
+
+## Dazaev
+
+- **color:** blue
+- **video game:** overwatch
+- **animal:** dog
